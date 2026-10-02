@@ -6,7 +6,7 @@
 <!-- Typing Text for Pentester Roles -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Penetration+Tester+%26+Security+Researcher;Specialized+in+OWASP+Top+10+%26+VAPT;Building+Custom+Recon+%26+Security+Tools;CTF+Player+%26+Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Penetration+Tester+%26+Security+Researcher;Specialized+in+OWASP+Top+10+%26+VAPT;Building+Custom+Recon+%26+Security+Tools;CTF+Player+%26+Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 

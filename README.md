@@ -27,6 +27,7 @@ root@security:~# cat capabilities.txt
 [+] Custom Python Security Tool Development
 [+] Linux Administration & Bash Scripting Automation
 [+] Cryptography & OSINT Investigations
+```` ``` ````
 
 ### 🧰 Arsenal & Tech Stack
 
@@ -67,4 +68,4 @@ root@security:~# cat capabilities.txt
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=90&section=footer)
-```
+

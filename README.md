@@ -67,12 +67,12 @@ root@security:~# cat capabilities.txt
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowkons&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff66&title_color=00ff66" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowkons&theme=dark&hide_border=true&background=0d1117&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowkxxns&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff66&title_color=00ff66" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowkxxns&theme=dark&hide_border=true&background=0d1117&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkons&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff66" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkxxns&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff66" width="48%" />
 </p>
 
 ---
@@ -80,9 +80,9 @@ root@security:~# cat capabilities.txt
 ### 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---

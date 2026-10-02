@@ -32,25 +32,11 @@ root@security:~# cat capabilities.txt
 
 **Penetration Testing & Security Tools:**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Languages & Systems:**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -66,27 +52,18 @@ root@security:~# cat capabilities.txt
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowkxxns&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff66&title_color=00ff66" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowkxxns&theme=dark&hide_border=true&background=0d1117&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowkons&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff66&title_color=00ff66)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkxxns&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff66" width="48%" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shadowkons&theme=dark&hide_border=true&background=0d1117&ring=00ff66&fire=00ff66&currStreakLabel=00ff66)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkons&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff66)
 
 ---
 
 ### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shadowkxxns/shadowkxxns/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=90&section=footer" width="100%" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=90&section=footer)

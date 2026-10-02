@@ -67,3 +67,4 @@ root@security:~# cat capabilities.txt
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=90&section=footer)
+```

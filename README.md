@@ -1,6 +1,6 @@
 <!-- Terminal / Cyber Green Style Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ff66&height=220&section=header&text=SECURITY%20RESEARCHER&fontSize=32&fontColor=0d1117&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ff66&height=220&section=header&text=SECURITY%20RESEARCHER&fontSize=24&fontColor=0d1117&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Typing Text for Pentester Roles -->

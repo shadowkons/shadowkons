@@ -29,6 +29,7 @@ root@security:~# cat capabilities.txt
 [+] Cryptography & OSINT Investigations
 
 🧰 Arsenal & Tech Stack
+
 Penetration Testing & Security Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -47,13 +48,17 @@ Languages & Systems:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 💻 Featured Security Projects
+
 | Project | Description | Tech Stack |
 |---|---|---|
 | Infinity Recon | Multi-threaded subdomain enumeration tool for rapid web application reconnaissance and directory discovery. | Python, Threading, Requests |
 | CyberQuest CTF | Web-based Capture The Flag platform featuring a live scoreboard and an integrated terminal simulator. (Details posted on LinkedIn) | Flask, JavaScript, CSS |
 | HashHound | Security utility for hash identification, decoding, and dictionary attack integration. | Python, Hashlib |
+
 📊 GitHub Activity & Metrics
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shadowkons&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff66&title_color=00ff66" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowkons&theme=dark&hide_border=true&background=0d1117&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="48%" />
@@ -61,7 +66,9 @@ Languages & Systems:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkons&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff66" width="48%" />
 </p>
+
 🐍 Contribution Activity
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadowkons/shadowkons/output/github-contribution-grid-snake.svg">

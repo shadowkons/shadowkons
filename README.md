@@ -27,7 +27,7 @@ root@security:~# cat capabilities.txt
 [+] Custom Python Security Tool Development
 [+] Linux Administration & Bash Scripting Automation
 [+] Cryptography & OSINT Investigations
-```` ``` ````
+```
 
 ### 🧰 Arsenal & Tech Stack
 
